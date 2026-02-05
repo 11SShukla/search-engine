@@ -1,0 +1,16 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Database files (Better to share the generation scripts instead)
+data/*.db
+
+# ML Models
+models/*.pkl
+
+# Environment/OS files
+.env
+.DS_Store
+Thumbs.db
